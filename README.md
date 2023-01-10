@@ -8,7 +8,7 @@ Table of Contents
   
 * Overview
 
-* ABSTRACT
+* ABSTRACT :
 Cardiovascular disease is one of the most heinous diseases, especially the silent
 heart attack, which attacks a person so abruptly that there's no time to get it treated
 and such disease is very difficult to be diagnosed. Various medical data mining and
@@ -26,7 +26,7 @@ Decision tree Algorithm and Naive Bayes Algorithm, Linear Regression, Knn
 Algorithm, Artificial Neural Networking which shows the best algorithm among
 these two in terms of accuracy level of heart disease.
 
- * INTRODUCTION
+ * INTRODUCTION :
  According to the World Health Organisation, every year 12 million deaths
 occur worldwide due to Heart Disease. Heart disease is one of the biggest causes of
 morbidity and mortality among the population of the world. Prediction of
@@ -49,7 +49,7 @@ or not. By collecting the data from various sources, classifying them under suit
 headings & finally analysing to extract the desired data we can say that this
 technique can be very well adapted to do the prediction of heart disease
 
-* MOTIVATION FOR THE WORK
+* MOTIVATION FOR THE WORK :
 The main motivation of doing this research is to present a heart disease
 prediction model for the prediction of occurrence of heart disease. Further, this
 research work is aimed towards identifying the best classification algorithm for
@@ -62,7 +62,7 @@ Hence, the three algorithms are evaluated at numerous levels and types of
 evaluation strategies. This will provide researchers and medical practitioners to
 establish a better
 
-* PROBLEM STATEMENT
+* PROBLEM STATEMENT :
 The major challenge in heart disease is its detection. There are instruments
 available which can predict heart disease but either they are expensive or are not
 efficient to calculate the chance of heart disease in humans. Early detection of
@@ -75,7 +75,7 @@ hidden patterns. The hidden patterns can be used for health diagnosis in medicin
 data.
 
 
-* Built With
+* Built With :
 The working of the system starts with the collection of data and selecting
 the important attributes. Then the required data is preprocessed into the required
 format. The data is then divided into two parts: training and testing data. The
@@ -114,29 +114,39 @@ system is implemented using the following modules.
    * Accuracy(%) : 76.92
    * Sensitivity(%) : 68.51
    * Specificity(%) : 89.18
+   
+   
    ![image](https://user-images.githubusercontent.com/108573409/211609157-e0f7ef7e-163d-4411-b7a5-12ac8fe865ca.png)
 
 2) Multinomial Naive Bayes Model
    * Accuracy(%) : 73.77
    * Sensitivity(%) : 77.41
    * Specificity(%) : 70.0
+
+
    ![image](https://user-images.githubusercontent.com/108573409/211609217-3047edb4-ac20-423f-b08e-ee9ec4567b8d.png)
 
 3) Decision Tree Model
    * Accuracy(%) : 78.02
    * Sensitivity(%) : 69.09
    * Specificity(%) : 91.66
+
+
    ![image](https://user-images.githubusercontent.com/108573409/211609285-a7b82f4c-622b-4d97-b8c2-a824396a11b4.png)
 
 4) K-Nearest Neighbour Model
    * Accuracy(%) : 82.41
    * Sensitivity(%) : 75.51
    * Specificity(%) : 90.47
+
+
    ![image](https://user-images.githubusercontent.com/108573409/211609321-9e5938d7-90fe-4a77-bd0a-1b6d8794a995.png)
 
 5) Artificial Neural Network Model
    * Accuracy(%) : 83.51
    * Sensitivity(%) : 90.0
    * Specificity(%) : 91.46 
+
+
 ![image](https://user-images.githubusercontent.com/108573409/211609368-d026ad99-9715-455e-bbbd-9fb35ae6a344.png)
 
