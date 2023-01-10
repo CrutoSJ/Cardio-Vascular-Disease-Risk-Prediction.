@@ -8,7 +8,7 @@ Table of Contents
   
 * Overview
 
-* ABSTRACT :
+## ABSTRACT :
 Cardiovascular disease is one of the most heinous diseases, especially the silent
 heart attack, which attacks a person so abruptly that there's no time to get it treated
 and such disease is very difficult to be diagnosed. Various medical data mining and
@@ -26,7 +26,7 @@ Decision tree Algorithm and Naive Bayes Algorithm, Linear Regression, Knn
 Algorithm, Artificial Neural Networking which shows the best algorithm among
 these two in terms of accuracy level of heart disease.
 
- * INTRODUCTION :
+ ## INTRODUCTION :
  According to the World Health Organisation, every year 12 million deaths
 occur worldwide due to Heart Disease. Heart disease is one of the biggest causes of
 morbidity and mortality among the population of the world. Prediction of
@@ -49,7 +49,7 @@ or not. By collecting the data from various sources, classifying them under suit
 headings & finally analysing to extract the desired data we can say that this
 technique can be very well adapted to do the prediction of heart disease
 
-* MOTIVATION FOR THE WORK :
+## MOTIVATION FOR THE WORK :
 The main motivation of doing this research is to present a heart disease
 prediction model for the prediction of occurrence of heart disease. Further, this
 research work is aimed towards identifying the best classification algorithm for
@@ -62,7 +62,7 @@ Hence, the three algorithms are evaluated at numerous levels and types of
 evaluation strategies. This will provide researchers and medical practitioners to
 establish a better
 
-* PROBLEM STATEMENT :
+# PROBLEM STATEMENT :
 The major challenge in heart disease is its detection. There are instruments
 available which can predict heart disease but either they are expensive or are not
 efficient to calculate the chance of heart disease in humans. Early detection of
@@ -75,7 +75,7 @@ hidden patterns. The hidden patterns can be used for health diagnosis in medicin
 data.
 
 
-* Built With :
+## Built With :
 The working of the system starts with the collection of data and selecting
 the important attributes. Then the required data is preprocessed into the required
 format. The data is then divided into two parts: training and testing data. The
@@ -88,7 +88,7 @@ system is implemented using the following modules.
 4.) Balancing of Data
 5.) Disease Prediction
 
-* Dataset
+# Dataset
 
   * Source : https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
   Each data-set consisted of 14 attributes.
@@ -109,7 +109,7 @@ system is implemented using the following modules.
 12) number of major vessels (0-3) colored by flourosopy
 13) thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 
-* Results 
+# Results 
 1) Linear Regression Model
    * Accuracy(%) : 76.92
    * Sensitivity(%) : 68.51
