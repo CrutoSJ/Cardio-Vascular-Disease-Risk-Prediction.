@@ -5,6 +5,7 @@ Table of Contents
   * Built With
   * Dataset
   * Results
+  * License
   
 * Overview
 
@@ -150,3 +151,5 @@ system is implemented using the following modules.
 
 ![image](https://user-images.githubusercontent.com/108573409/211609368-d026ad99-9715-455e-bbbd-9fb35ae6a344.png)
 
+# License
+Distributed under the MIT License. See LICENSE for more information.
